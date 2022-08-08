@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shirofr
-- 👀 I’m interested in cybersecurity, especially pentesting, and in code in general (front end, back end).
+- 👀 I’m interested in cybersecurity, especially pentesting, and in code generally speaking (front end, back end).
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Python, PHP. I am also learning cybersecurity.
 - 📫 How to reach me : @shirofr_ in instagram and twitter.
 
